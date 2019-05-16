@@ -1,0 +1,18 @@
+{
+  "name": "extended-module",
+  "version": "1.0.0",
+  "description": "Test on object oriented module/function calling",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/canvastlc?tab=repositories"
+  },
+  "keywords": [
+    "silver"
+  ],
+  "author": "lc.tay <liangchung.tay@gmail.com> (https://github.com/canvastlc)",
+  "license": "ISC"
+}
